@@ -1,12 +1,41 @@
-# React + Vite
+# 🎟 Lottery Game - React App  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple lottery ticket generator built with *React, HTML, CSS, and JavaScript*.  
+The game generates a random ticket number each time you click the *"Buy New Ticket"* button.  
+This project demonstrates the use of React components, state management, and event handling in a fun and interactive way.  
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
+- 🎟 Generates random lottery numbers.  
+- 🎨 Clean and responsive UI using CSS.  
+- ⚡ Built with React for fast rendering.  
+- 🖱 Interactive button for generating new tickets.  
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠 Tech Stack
+- *React*  
+- *JavaScript (ES6+)*  
+- *HTML5*  
+- *CSS3*  
+
+---
+
+## 🚀 Getting Started
+
+Follow these steps to run the project locally:
+
+1. *Clone the repository*
+   ```bash
+   git clone https://github.com/your-username/Lottery-Game.git
+   cd Lottery-Game
+
+2. Install dependencies
+
+npm install
+
+
+3. Start the development server
+
+npm start
